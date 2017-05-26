@@ -151,8 +151,8 @@ body {
 .player .controls-play-pause {
   background-size: cover;
   border: 0;
-  float: left;
-  height: 196px;
+  float: right;
+  height: 36px;
   margin-left: -4px;
   margin-top: -3px;
   width: 32px;
