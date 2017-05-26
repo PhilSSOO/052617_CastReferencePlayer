@@ -142,7 +142,7 @@ body {
 .player .controls {
   display: none;
   bottom: 0;
-  height: 30px;
+  height: 90px;
   left: 0;
   position: absolute;
   right: 0;
@@ -151,7 +151,7 @@ body {
 .player .controls-play-pause {
   background-size: cover;
   border: 0;
-  float: right;
+  float: left;
   height: 36px;
   margin-left: -4px;
   margin-top: -3px;
