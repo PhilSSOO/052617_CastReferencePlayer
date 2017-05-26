@@ -142,7 +142,7 @@ body {
 .player .controls {
   display: none;
   bottom: 0;
-  height: 90px;
+  height: 30px;
   left: 0;
   position: absolute;
   right: 0;
